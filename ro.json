@@ -1,1 +1,28 @@
-
+{
+    "webSearchButton": "Web",
+    "imageSearchButton": "Imagini",
+    "webSearch": {
+        "showingXResults": "Arătând [X] rezultate",
+        "noTitle": "Pagină fără titlu"
+    },
+    "answers": {
+        "colorPicker": "Selector de Culoare",
+        "htmlIDE": "Rulează codul!",
+        "weWillCrawl": {
+            "thankYou": "Mulțumim pentru că ați submis link-ul dumneavoastră!",
+            "underThankYou": "În scurt timp, vă vom adăuga URL-ul la Qdex."
+        },
+        "wexond": {
+            "heading": "Noi recomandăm <a href=\"https://wexond.net\">Wexond</a>!",
+            "underHeading": "Probabil nu ai dorit opinia noastră. Deci uite. <b>#notsponsored</b>"
+        }
+    },
+    "easterEggs": {
+        "qdex": "Ești acasă!",
+        "google": "Cum îndrăznești?!",
+        "bing": "Glumești, nu-i așa?",
+        "yahoo": "Mai folosește cineva Yahoo?"
+    },
+    "changeLanguage": "Schimbă Llimba",
+    "homepageMenu": ""
+}
