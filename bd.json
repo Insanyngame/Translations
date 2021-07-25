@@ -1,1 +1,28 @@
-
+{
+    "webSearchButton": "ওয়েব",
+    "imageSearchButton": "ছবিগুলো",
+    "webSearch": {
+        "showingXResults": "[x]টি এর মতো ফলাফল দেখানো হচ্ছে",
+        "noTitle": "কোন শিরনাম নেই"
+    },
+    "answers": {
+        "colorPicker": "রঙ বাছাইকারী",
+        "htmlIDE": "কোড চালান!",
+        "weWillCrawl": {
+            "thankYou": "আপনাকে লিংক  জমা দেয়ার জন্য ধন্যবাদ!",
+            "underThankYou": "শীঘ্রই, আমরা ইউআরএল যোগ করব এবং এটি Qdex এ যুক্ত করব।"
+        },
+        "wexond": {
+            "heading": "আমরা <a href=\"https://wexond.net\">Wexond</a> কে সুপারিশ করছি!",
+            "underHeading": "আপনে সম্ভবত আমাদের মত চান না, তাই এটা নিন । <b>#notsponsored</b>"
+        }
+    },
+    "easterEggs": {
+        "qdex": "আপনি এখানেই আছেন!",
+        "google": "কত দুঃসাহস তোমার!",
+        "bing": "আপনি মজা করছেন, তাই না?",
+        "yahoo": "কেউ কি এখনও Yahoo ব্যাবহার করে?"
+    },
+    "changeLanguage": "ভাষা পরিবর্তন করুন",
+    "homepageMenu": "তালিকা"
+}
