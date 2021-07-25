@@ -1,1 +1,28 @@
-
+{
+    "webSearchButton": "Web",
+    "imageSearchButton": "Afbeeldingen",
+    "webSearch": {
+        "showingXResults": "[X] resultaten weergeven",
+        "noTitle": "Geen titel"
+    },
+    "answers": {
+        "colorPicker": "Kleur Kiezer",
+        "htmlIDE": "Voer de code uit!",
+        "weWillCrawl": {
+            "thankYou": "Bedankt dat je een link hebt ingediend!",
+            "underThankYou": "Binnenkort zullen we de link crawlen en toevoegen aan Qdex."
+        },
+        "wexond": {
+            "heading": "We raden <a href=\"https://wexond.net\">Wexond</a> aan!",
+            "underHeading": "Je wilde waarschijnlijk niet onze mening. Maakt ons niks uit! <b>#nietgesponsord</b>"
+        }
+    },
+    "easterEggs": {
+        "qdex": "Je bent thuis!",
+        "google": "Hoe kun je!",
+        "bing": "Je maakt een grapje, hè?",
+        "yahoo": "Gebruikt iemand op de wereld nog Yahoo?"
+    },
+    "changeLanguage": "Verander Taal",
+    "homepageMenu": "Menu"
+}
