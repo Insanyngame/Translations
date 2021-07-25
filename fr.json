@@ -1,1 +1,28 @@
-
+{
+    "webSearchButton": "Web",
+    "imageSearchButton": "Images",
+    "webSearch": {
+        "showingXResults": "Affichage de [X] résultats",
+        "noTitle": "Sans titre"
+    },
+    "answers": {
+        "colorPicker": "Sélecteur de couleur",
+        "htmlIDE": "Exécute le code!",
+        "weWillCrawl": {
+            "thankYou": "Merci d'avoir envoyé ton lien!",
+            "underThankYou": "Dans peu de temps, nous irons rechercher cette URL et l'ajouter à Qdex."
+        },
+        "wexond": {
+            "heading": "On vous recommande <a href=\"https://wexond.net\">Wexond</a>!",
+            "underHeading": "Tu ne voulais sûrement pas notre opinion. Donc voilà. <b>#passponsorisé</b>"
+        }
+    },
+    "easterEggs": {
+        "qdex": "C'est ici!",
+        "google": "Comment oses-tu!",
+        "bing": "Tu plaisantes, n'est-ce pas?",
+        "yahoo": "Qui utilise encore Yahoo aujourd'hui?"
+    },
+    "changeLanguage": "Changer la langue",
+    "homepageMenu": "Menu"
+}
