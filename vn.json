@@ -1,1 +1,28 @@
-
+{
+    "webSearchButton": "Web",
+    "imageSearchButton": "Ảnh",
+    "webSearch": {
+        "showingXResults": "Tìm thấy [X] kết quả",
+        "noTitle": "Không tiêu đề"
+    },
+    "answers": {
+        "colorPicker": "Chọn màu",
+        "htmlIDE": "Chạy code!",
+        "weWillCrawl": {
+            "thankYou": "Cảm ơn đã gửi link của bạn!",
+            "underThankYou": "Chúng ta sẽ sớm thu thập các đường link và thêm vào Qdex"
+        },
+        "wexond": {
+            "heading": "Chúng tôi nghĩ nó nên là <a href=\"https://wexond.net\">Wexond</a>!",
+            "underHeading": "Bạn có vẻ không cần lời khuyên của chúng tôi.\n<b>#notsponsored</b>"
+        }
+    },
+    "easterEggs": {
+        "qdex": "Bạn đã về đến nhà!",
+        "google": "Sao bạn dám!",
+        "bing": "Bạn đang đùa phải không?",
+        "yahoo": "Có ai còn dùng Yahoo nữa không vây?"
+    },
+    "changeLanguage": "Thay đổi ngôn ngữ",
+    "homepageMenu": "Menu"
+}
