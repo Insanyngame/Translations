@@ -24,5 +24,7 @@
         "yahoo": "Qui utilise encore Yahoo aujourd'hui?"
     },
     "changeLanguage": "Changer la langue",
-    "homepageMenu": "Menu"
+    "homepageMenu": "Menu",
+    "translatorTo": "Vers: ",
+    "translatorPlaceholder": "Appuyez ici et commencez à taper (dans n'importe quelle lange)..."
 }
