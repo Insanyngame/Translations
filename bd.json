@@ -24,5 +24,7 @@
         "yahoo": "কেউ কি এখনও Yahoo ব্যাবহার করে?"
     },
     "changeLanguage": "ভাষা পরিবর্তন করুন",
-    "homepageMenu": "তালিকা"
+    "homepageMenu": "তালিকা",
+    "translatorTo": "থেকেঃ",
+    "translatorPlaceholder": "এখানে চাপ দিন ও  টাইপিং শুরু করুন (যেকনো ভাষায়)"
 }
