@@ -24,5 +24,7 @@
         "yahoo": "Gebruikt iemand op de wereld nog Yahoo?"
     },
     "changeLanguage": "Verander Taal",
-    "homepageMenu": "Menu"
+    "homepageMenu": "Menu",
+    "translatorTo": "Naar: ",
+    "translatorPlaceholder": "Klik hier en begin te typen (in welke taal dan ook)..."
 }
