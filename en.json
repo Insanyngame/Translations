@@ -24,5 +24,7 @@
         "yahoo": "Does anyone even use Yahoo anymore?"
     },
     "changeLanguage": "Change Language",
-    "homepageMenu": "Menu"
+    "homepageMenu": "Menu",
+    "translatorTo": "To: ",
+    "translatorPlaceholder": "Click here and start typing (in any language)..."
 }
