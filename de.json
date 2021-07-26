@@ -24,5 +24,7 @@
         "yahoo": "Nutzt irgendwer überhaupt noch Yahoo?"
     },
     "changeLanguage": "Sprache ändern",
-    "homepageMenu": "Menü"
+    "homepageMenu": "Menü",
+    "translatorTo": "Zu: ",
+    "translatorPlaceholder": "Klicke hier und fange an zu schreiben (in irgendeiner Sprache)..."
 }
