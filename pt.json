@@ -1,0 +1,30 @@
+{
+    "webSearchButton": "Web",
+    "imageSearchButton": "Imagens",
+    "webSearch": {
+        "showingXResults": "Mostrando [X] resultados",
+        "noTitle": "Sem título"
+    },
+    "answers": {
+        "colorPicker": "Selecionador de Cor",
+        "htmlIDE": "Rode o código!",
+        "weWillCrawl": {
+            "thankYou": "Obrigado por submeter seu link!",
+            "underThankYou": "Daqui a pouco, nós vamos arrastar ele e adicionar no Qdex.Qdex."
+        },
+        "wexond": {
+            "heading": "Nós recomendamos <a href=\"https://wexond.net\">Wexond</a>!",
+            "underHeading": "Você provavelmente não queria nossa opinião. Então aqui vai. <b>#nãopatrocinado</b>"
+        }
+    },
+    "easterEggs": {
+        "qdex": "Você está em casa!",
+        "google": "Como você ousa!",
+        "bing": "Você está brincando, né?",
+        "yahoo": "Tem pessoa que ainda usa Yahoo?"
+    },
+    "changeLanguage": "Mudar Idioma",
+    "homepageMenu": "Menu",
+    "translatorTo": "Para: ",
+    "translatorPlaceholder": "Clique aqui e comece a digitar(em qualquer idioma)..."
+}
