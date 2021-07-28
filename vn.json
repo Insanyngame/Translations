@@ -24,5 +24,7 @@
         "yahoo": "Có ai còn dùng Yahoo nữa không vây?"
     },
     "changeLanguage": "Thay đổi ngôn ngữ",
-    "homepageMenu": "Menu"
+    "homepageMenu": "Menu",
+    "translatorTo": "Đến: ",
+    "translatorPlaceholder": "Click vào đây và bắt đầu nhập (ở các ngôn ngữ)..."
 }
