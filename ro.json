@@ -24,5 +24,7 @@
         "yahoo": "Mai folosește cineva Yahoo?"
     },
     "changeLanguage": "Schimbă Llimba",
-    "homepageMenu": ""
+    "homepageMenu": "Meniu",
+    "translatorTo": "Către: ",
+    "translatorPlaceholder": "Apasă aici și începe să scrii (în orice limbă)..."
 }
